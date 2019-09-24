@@ -1,0 +1,17 @@
+{
+  "name": "mvp-golden-face-detection",
+  "version": "1.0.0",
+  "description": "Detecting Golden Ratio on Image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Golden",
+    "Ratio",
+    "OpenCV",
+    "OpenCV4"
+  ],
+  "author": "Peter Tantono",
+  "license": "ISC"
+}

@@ -1,0 +1,1 @@
+Golden Ratio Image Detection
